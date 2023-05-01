@@ -1,6 +1,6 @@
 ## Rahul Mehra🤞 - Front-End Developer
 
-<img src="https://cdn.leonardo.ai/users/d68f73d9-bfc1-42ec-ae09-f95d981531d6/generations/27730823-6aea-4b15-8826-83a826258bd5/Leonardo_Diffusion_3d_image_of_a_table_with_laptop_and_program_1.jpg" width="100%" height="50%">
+<img src="https://cdn.leonardo.ai/users/d68f73d9-bfc1-42ec-ae09-f95d981531d6/generations/27730823-6aea-4b15-8826-83a826258bd5/Leonardo_Diffusion_3d_image_of_a_table_with_laptop_and_program_1.jpg" width="100%" height="50" >
 
 I am a front-end developer with one year of internship experience in web development. I am proficient in JavaScript, React, HTML, CSS, Bootstrap, and ASP.NET. I have experience working with open source APIs to create different projects, including websites and mobile apps.
 
