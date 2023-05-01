@@ -16,8 +16,8 @@ RESTful APIs
 ## Projects
 Here are some of the projects that I have worked on during my internship and personal projects:
 
-Project Name 1: A web site that includes all the basic features of a normal webiste and responsive layout.
-Project Name 2: A Weather App to find different weather of all over the world's location with an open source API.
+Villa booking Website : A web site that includes all the basic features of a normal webiste and responsive layout.
+Weather App : App to find different weather of all over the world's location with an open source API.
 Project Name 3: Currently working on.
 
 ##Education
