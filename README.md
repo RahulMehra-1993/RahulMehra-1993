@@ -24,7 +24,8 @@ Weather App : App to find different weather of all over the world's location wit
 #link https://rahulmehra-1993.github.io/WeatherApp/
 
 
-Utility Tracker: #https://utility-tracker.netlify.app/.
+Utility Tracker:  This web application combines various tools and trackers to help you manage your daily tasks, finances, and stay updated with the latest weather information. Additionally, it includes user authentication using Firebase for secure access.
+#link https://utility-tracker.netlify.app/.
 
 
 ##Education
