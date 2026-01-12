@@ -106,9 +106,7 @@ I enjoy building **scalable, clean, and performant user interfaces**, integratin
 
 ## 📫 Connect With Me
 
-- 💼 **LinkedIn:** *(Add your link here)*
-- 📧 **Email:** *(Add your email here)*
-- 🌐 **Portfolio:** *(Optional)*
+- 📧 **Email:** *mehra.rahul804@gmail.com*
 
 ---
 
