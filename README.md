@@ -1,44 +1,115 @@
-## Rahul Mehra🤞 - Front-End Developer
+# 👋 Hi, I'm Raul Mehra
 
-<img src="https://cdn.leonardo.ai/users/d68f73d9-bfc1-42ec-ae09-f95d981531d6/generations/27730823-6aea-4b15-8826-83a826258bd5/Leonardo_Diffusion_3d_image_of_a_table_with_laptop_and_program_1.jpg" width="100%" height="30%" >
+🚀 **Full Stack Developer | Frontend-Focused | AI-Certified (AI-102)**  
+💻 Angular • React • Python • .NET • Azure • SQL  
+🤖 AI Integration • Scalable UI • Production-Grade Applications
 
-I am a front-end developer with one year of internship experience in web development. I am proficient in JavaScript, React, HTML, CSS, Bootstrap, and ASP.NET. I have experience working with open source APIs to create different projects, including websites and mobile apps.
+---
 
-## Technical Skills
-JavaScript
-React
-HTML
-CSS
-Bootstrap
-ASP.NET
-RESTful APIs
+## 👨‍💻 About Me
 
-## Projects
-Here are some of the projects that I have worked on during my internship and personal projects:
+I am a **passionate Full Stack Developer** with a strong focus on **frontend engineering** and **modern UI development**, backed by solid backend and cloud experience.
 
-Villa booking Website : A web site that includes all the basic features of a normal webiste and responsive layout.
-#link https://rahulmehra-1993.github.io/ResidentailVilla-website/
+- 🔹 4+ years of total experience in **web development**
+- 🔹 1.5+ years hands-on with **Angular & React**
+- 🔹 Strong background in **Python, .NET (C#), SQL**
+- 🔹 **AI-102 Certified** – Azure AI Engineer Associate
+- 🔹 Experience building **AI-powered applications**, dashboards, and enterprise systems
+- 🔹 Former **Associate Engineer** in the solar industry, bringing real-world engineering perspective
 
+I enjoy building **scalable, clean, and performant user interfaces**, integrating **AI services**, and solving real business problems.
 
-Weather App : App to find different weather of all over the world's location with an open source API.
-#link https://rahulmehra-1993.github.io/WeatherApp/
+---
 
+## 🛠️ Tech Stack
 
-Utility Tracker:  This web application combines various tools and trackers to help you manage your daily tasks, finances, and stay updated with the latest weather information. Additionally, it includes user authentication using Firebase for secure access.
-#link https://utility-tracker.netlify.app/.
+### 🌐 Frontend
+- Angular (v17+)
+- React / Next.js
+- TypeScript, JavaScript
+- HTML5, CSS3, Tailwind, Angular Material
+- State Management & SPA Architecture
 
+### ⚙️ Backend
+- Python (FastAPI)
+- .NET / C#
+- REST APIs
+- SQL Server
 
-##Education
-Bachelor's Degree in Mechanical Engineering  from [Rayat & Bahara ,PUNJAB], [2015]
-Had an 2 years of experience in solar Industry
+### ☁️ Cloud & AI
+- Microsoft Azure
+- Azure AI Services
+- Azure AI Foundry
+- Azure OpenAI
+- Semantic Kernel
+- LangChain / LangGraph
 
-##Personal Skills
-Strong problem-solving skills
-Ability to work independently or as part of a team
-Excellent communication skills
-Quick learner and passionate about technology
+### 🧠 AI & Automation
+- AI Agents & Multi-Agent Systems
+- NLP-based Chatbots
+- AI-driven Reporting & Analytics
+- Azure DevOps Automation
 
-Contact Information
-Email: mehra.rahul804@gmail.com
-LinkedIn: Search as Rahul mehra 
-Feel free to reach out to me if you have any questions or would like to discuss any projects.And to hire me.
+### 🔧 Tools & DevOps
+- Git & GitHub
+- Docker
+- Azure Blob Storage
+- CI/CD Pipelines
+
+---
+
+## 📌 Key Projects
+
+### 🏠 **HomeGuard – Property Management System**
+- Led frontend development using **Angular**
+- Built scalable UI components for vendor and inventory management
+- Delivered responsive, production-ready enterprise UI
+
+### 🤖 **Synerion – AI Chatbot Platform**
+- Developed chatbot UI using **Angular & React**
+- Integrated NLP-based AI responses
+- Focused on UX, performance, and seamless AI interaction
+
+### 🪑 **Furniture Inventory & Vendor Management System**
+- Built modern dashboards using **React**
+- Integrated APIs and optimized data handling
+- Improved operational efficiency with clean UI workflows
+
+### 📊 **AI DevOps Productivity Agent**
+- Built an AI agent using **Python & Azure AI Foundry**
+- Fetches Azure DevOps tickets
+- Calculates delivery metrics
+- Generates Excel reports and sends automated notifications
+
+### 🖼️ **Image Upload & Retrieval System**
+- React frontend with **Node.js backend**
+- Azure Blob Storage integration
+- Pagination, environment-based configs, and secure access
+
+---
+
+## 🎓 Certifications
+
+- ✅ **Microsoft Azure AI Engineer Associate (AI-102)**
+
+---
+
+## 📈 GitHub Focus Areas
+
+- Angular & React best practices
+- AI-integrated frontend applications
+- Python-based AI agents
+- Clean architecture & performance optimization
+- Production-ready, scalable solutions
+
+---
+
+## 📫 Connect With Me
+
+- 💼 **LinkedIn:** *(Add your link here)*
+- 📧 **Email:** *(Add your email here)*
+- 🌐 **Portfolio:** *(Optional)*
+
+---
+
+⭐ **If you like my work, feel free to star the repositories and connect!**
